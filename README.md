@@ -1,1 +1,1 @@
-# Lab2
+This script utilizes a Support Vector Machine (SVM) algorithm to predict breast cancer diagnosis using the Wisconsin Breast Cancer Diagnostic dataset. It performs preprocessing steps such as encoding diagnosis labels and feature scaling. Feature selection is conducted to choose the top 10 relevant features for training the SVM model. Finally, the model's accuracy is evaluated on both training and testing data, providing insights into its predictive performance for breast cancer diagnosis.
